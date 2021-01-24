@@ -1,3 +1,0 @@
-# tarelenion.github.io
-
-hellooo
