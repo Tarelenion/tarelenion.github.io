@@ -1,8 +1,11 @@
-
+body {
+  background-color: #ffffff;
+}
 h1 {
-  text-align: center
+  text-align: center;
+  text-color: #0b00d7;
 }
 
 form {
-  text-align: right
+  text-align: right;
 }
