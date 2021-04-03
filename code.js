@@ -15,6 +15,6 @@ function pass()
     }
   else
     {
-      document.getElementById("authorisedornot").innerhtml="YOU ARE NOT AUTHORISED";
+      document.getElementById("authorisedornot").innerhtml = "YOU ARE NOT AUTHORISED";
     }
 }
