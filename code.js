@@ -22,4 +22,5 @@ function pass()
 function pointless()
 {
   document.getElementById("text").innerhtml = "Bye";
+  alert("why?");
 }
