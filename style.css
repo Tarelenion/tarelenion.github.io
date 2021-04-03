@@ -11,3 +11,8 @@ form {
 hr {
   color: #0B00D7;
 }
+#pointlessbutton {
+  color: white;
+  background-color: red;
+  margin: 6px 2px;
+}
