@@ -17,4 +17,5 @@ function pass()
     {
       document.getElementById("authorisedornot").innerHTML = "YOU ARE NOT AUTHORISED";
     }
+  document.getElementById("authorisedornot").innerHTML = "wtf";
 }
