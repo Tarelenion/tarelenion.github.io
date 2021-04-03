@@ -11,16 +11,10 @@ function pass()
   var passwordinput = document.getElementById("password").value;
   if(idinput == id1 && passwordinput == password1)
     {
-      document.getElementById("authorisedornot").innerhtml = "Welcome, you have the Information allowence class 1.";
+      document.getElementById("authorisedornot").innerHTML = "Welcome, you have the Information allowence class 1.";
     }
   else
     {
-      document.getElementById("authorisedornot").innerhtml = "YOU ARE NOT AUTHORISED";
+      document.getElementById("authorisedornot").innerHTML = "YOU ARE NOT AUTHORISED";
     }
-}
-
-function pointless()
-{
-  document.getElementById("text").innerhtml = "Bye";
-  alert("why?");
 }
