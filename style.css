@@ -12,9 +12,9 @@ hr {
   color: #0B00D7;
 }
 #pointlessbutton {
-  color: #0b00d7;
+  color: white;
   border: none;
-  background-color: red;
+  background-color: #0b00d7;
   margin: 6px 2px;
   padding: 20px;
   border-radius: 50%;
