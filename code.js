@@ -18,3 +18,8 @@ function pass()
       document.getElementById("authorisedornot").innerhtml = "YOU ARE NOT AUTHORISED";
     }
 }
+
+function pointless()
+{
+  document.getElementById("text").innerhtml = "Bye";
+}
