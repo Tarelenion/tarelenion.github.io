@@ -27,3 +27,15 @@ hr {
   padding: 20px;
   border-radius: 50%;
 }
+#footer {
+    background-color: #36393e;
+    color: white
+}
+.fcol1 {
+    width: 60%;
+    display: inline-block;
+}
+.fcol2 {
+    width: 30%;
+    display: inline-block;
+}
