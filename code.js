@@ -3,6 +3,11 @@ function notready()
   alert("This function is not yet ready!");
 }
 
+function dont()
+{
+  alert("...I said do not press this button");
+}
+
 function pass()
 {
   var id1 = "Byeongwoo";
