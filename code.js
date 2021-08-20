@@ -24,3 +24,8 @@ function pass()
     }
   document.getElementById("authorisedornot").innerHTML = "wtf";
 }
+function idiot()
+{
+  prompt("are you an idiot?");
+  alert("you are an idiot");
+}
