@@ -19,9 +19,6 @@ form {
 hr {
   color: #0B00D7;
 }
-header {
-    margin-top: 0;
-}
 #pointlessbutton {
   color: white;
   border: none;
@@ -30,22 +27,4 @@ header {
   padding: 20px;
   border-radius: 50%;
 }
-#footer {
-    background-color: #36393e;
-    color: white
-}
-#text {
-    color: black;
-    margin-left: 12.5%;
-    margin-right: 12.5%;
-    margin-bottom: 100px;
-}
-.fcol1 {
-    width: 60%;
-    display: inline-block;
-}
-.fcol2 {
-    width: 30%;
-    display: inline-block;
-    vertical-align: top;
-}
+© 2021 GitHub, Inc.
