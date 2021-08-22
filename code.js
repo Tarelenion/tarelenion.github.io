@@ -27,5 +27,5 @@ function pass()
 function idiot()
 {
   window.prompt("type in a number", "a number");
-  alert("you are an idiot!");
+  confirm("you are an idiot!");
 }
