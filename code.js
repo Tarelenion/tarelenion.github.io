@@ -26,6 +26,6 @@ function pass()
 }
 function idiot()
 {
-  prompt("are you an idiot?");
-  alert("you are an idiot");
+  prompt("type in a number", "a number");
+  alert("you are an idiot!");
 }
