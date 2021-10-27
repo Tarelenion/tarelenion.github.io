@@ -11,7 +11,7 @@ function dont()
 function pass()
 {
   var id1 = "Byeongwoo";
-  var password1 = "rlaquddn";
+  var password1 = "verysecretpassword";
   var idinput = document.getElementById("ID").value;
   var passwordinput = document.getElementById("password").value;
   if(idinput == id1 && passwordinput == password1)
