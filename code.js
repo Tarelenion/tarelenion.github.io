@@ -1,3 +1,4 @@
+var i = 0
 function notready()
 {
   alert("This function is not yet ready!");
@@ -5,7 +6,15 @@ function notready()
 
 function dont()
 {
-  alert("...I said do not press this button");
+  if(i<3)
+  {
+  alert("...I said do not click this button");
+  i = i+1;
+  }
+  else
+  {
+    alert("..........do whatever you want..........");
+  }  
 }
 
 function pass()
